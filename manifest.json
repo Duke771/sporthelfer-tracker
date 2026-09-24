@@ -1,0 +1,16 @@
+{
+  "name": "Sporthelfer Tracker",
+  "short_name": "Sporthelfer",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "https://tg-neuss.de/wp-content/uploads/2024/06/TG_Neuss-Logo_final-300x282.png",
+      "sizes": "300x282",
+      "type": "image/png"
+    }
+  ]
+}
